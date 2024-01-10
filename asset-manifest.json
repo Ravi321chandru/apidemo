@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apidemo/static/css/main.f73af946.css",
+    "main.js": "/apidemo/static/js/main.555c8b97.js",
+    "index.html": "/apidemo/index.html",
+    "main.f73af946.css.map": "/apidemo/static/css/main.f73af946.css.map",
+    "main.555c8b97.js.map": "/apidemo/static/js/main.555c8b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73af946.css",
+    "static/js/main.555c8b97.js"
+  ]
+}
